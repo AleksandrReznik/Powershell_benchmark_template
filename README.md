@@ -1,4 +1,5 @@
-# Powershell_benchmark_template
+# Powershell benchmark template
+![SaveScriptContentsToLogFile!](https://github.com/AleksandrReznik/Powershell_benchmark_template/blob/main/SaveScriptContentsToLogFile.jpg "SaveScriptContentsToLogFile")
 Powershell benchmark template, Defines output to both screen and log file and saves currently executed file to log file  
 
 Main thing in this script is LogWrite function. I created it to easy "search and replace" write-host or write-output
